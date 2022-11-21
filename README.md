@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Youssef Ahmed
+- 👋 Hi, I’m @Youssef Ahmed , Computer Science graduate 
 - 👀 I’m interested in Computer Science specially in AI field
-- 🌱 I’m currently learning Software Engineering in Faculty of Computer science & Artificial intelligence Helwan in last year (GP year)
 - 💞️ I’m looking to collaborate on Machine learning and Deep Learning Projects 
 - 📫 How to reach me Youssef.mtc@outlook.com
 
